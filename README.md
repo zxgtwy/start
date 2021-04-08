@@ -1,21 +1,18 @@
 # Showing World Your Thinking
 
 #### 介绍
-“互联网专业学生的必修课”
-用更富有创造性的方式向世界表达自己。
+Victory won’t come to me unless I go to it. 
+一味的等待解决不了问题，主动出击，勇往直前！
 
 #### 使用说明
+万丈高楼平地起，生活只能靠自己。![QQ图片20210408085248](https://user-images.githubusercontent.com/82090565/113952216-db0b8f80-9847-11eb-922a-ff011eccda38.jpg)
 
-结合我的学习经历，为大家带来更好的学习内容。
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+ 
+#### 主要目标
+1.  扩展思维
+2.  锻炼能力
 
 #### 梦想合伙人
-
-* YvesWong (tHefAkebOy@wlfj.fun)
+zxgtwy(2695822604@qq.com)
+ 
 
